@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/react-chat-posts-samp/static/js/main.9f3727e5.chunk.js",
+    "main.js.map": "/react-chat-posts-samp/static/js/main.9f3727e5.chunk.js.map",
+    "runtime~main.js": "/react-chat-posts-samp/static/js/runtime~main.28866d7e.js",
+    "runtime~main.js.map": "/react-chat-posts-samp/static/js/runtime~main.28866d7e.js.map",
+    "static/js/2.996a6753.chunk.js": "/react-chat-posts-samp/static/js/2.996a6753.chunk.js",
+    "static/js/2.996a6753.chunk.js.map": "/react-chat-posts-samp/static/js/2.996a6753.chunk.js.map",
+    "index.html": "/react-chat-posts-samp/index.html",
+    "precache-manifest.6349961d56d6a684da5888112353475e.js": "/react-chat-posts-samp/precache-manifest.6349961d56d6a684da5888112353475e.js",
+    "service-worker.js": "/react-chat-posts-samp/service-worker.js"
+  }
+}
